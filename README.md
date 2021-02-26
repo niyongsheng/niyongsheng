@@ -2,23 +2,20 @@
 
 ## My Projects
 
-### web
+### Vue
 
-- [vant_app](https://niyongsheng.github.io/phone_preview.html?url=https://niyongsheng.github.io/vant_app/#/) (`vant app template`)
-- [luck_draw](https://niyongsheng.github.io/luck_draw/) (`Highly available raffle app`)
-- [APPDownload](https://niyongsheng.github.io/APPDownload/) (`ipa release`)
-- [Daocaodui](https://niyongsheng.github.io/Daocaodui/AppDownload/) (`app release`)
-- [phone_preview](https://niyongsheng.github.io/phone_preview.html) (`custom phone iframe '...?url=xxx'`)
+- [vant_app](https://github.com/niyongsheng/vant_app) (`vant app template`)
+- [luck_draw](https://github.com/niyongsheng/LuckyDraw) (`auto draw app`)
 
 ### ios
 
 - [NYSTK](https://github.com/niyongsheng/NYSTK) (`ios colorful alert framework`)
-- [NYSKit](https://github.com/niyongsheng/NYSKit) (`Macros+BaseClass+Tool+Component IOS App Build Framework`)
-- [AppDemo](https://github.com/niyongsheng/AppDemo) (`ios project demo based on NYSKit`)
+- [NYSKit](https://github.com/niyongsheng/NYSKit) (`ios App build framework`)
+- [AppDemo](https://github.com/niyongsheng/AppDemo) (`ios project demo`)
+- [NYSMC](https://github.com/niyongsheng/NYSMC) (`ios sheel framework`)
 - [TomCat](https://github.com/niyongsheng/TomCatGame) (`frame animation demo`)
-- [BreakoutGame](https://github.com/niyongsheng/BreakoutGame) (`Breakout clone game`)
-- [GuessFigure](https://github.com/niyongsheng/GuessFigureGame) (`An example of Guess Figure application`)
-- [NYSMC](https://github.com/niyongsheng/NYSMC) (`Auto Choose Sheel/Application framework`)
+- [GuessFigure](https://github.com/niyongsheng/GuessFigureGame) (`guess figure App`)
+- [BreakoutGame](https://github.com/niyongsheng/BreakoutGame) (`breakout clone game`)
 
 ### mac
 
@@ -26,4 +23,4 @@
 
 ### java
 
-- [NYS_SSM](https://github.com/niyongsheng/NYS_SSM) (`Daocaodui spring project`)
+- [NYS_SSM](https://github.com/niyongsheng/NYS_SSM) (`Daocaodui comprehensive program`)
