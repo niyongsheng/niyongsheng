@@ -10,7 +10,7 @@
 ### ios
 
 - [AppDemo](https://github.com/niyongsheng/AppDemo) (`ios project demo`)
-- [NYSKit](https://github.com/niyongsheng/NYSKit) (`ios App build framework`)
+- [NYSKit](https://github.com/niyongsheng/NYSKit) (`ios app build framework`)
 - [NYSTK](https://github.com/niyongsheng/NYSTK) (`ios colorful alert framework`)
 - [NYSMC](https://github.com/niyongsheng/NYSMC) (`ios sheel framework`)
 - [TomCat](https://github.com/niyongsheng/TomCatGame) (`frame animation demo`)
@@ -20,7 +20,7 @@
 ### mac
 
 - [EasyRelease](https://github.com/niyongsheng/EasyRelease) (`easy release to app store tool`)
-- [AppPreview](https://github.com/niyongsheng/AppPreview) (`release screenshot tool`)
+- [AppPreview](https://github.com/niyongsheng/AppPreview) (`app store cover picture tool`)
 
 ### java
 
