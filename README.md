@@ -5,4 +5,4 @@
 思考的咸鱼
 </a>
 
-[![](https://github-readme-stats.vercel.app/api?username=niyongsheng&count_private=true&show_icons=true&theme=default&hide_title=true&bg_color=0000&hide_border=true&cache_seconds=1800)]()[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyongsheng&count_private=true&layout=compact&theme=default&hide_title=true&bg_color=0000&hide_border=true&cache_seconds=1800)]()
+[![](https://github-readme-stats.moonrailgun.com/api?username=niyongsheng&count_private=true&show_icons=true&theme=default&hide_title=true&bg_color=0000&hide_border=true&cache_seconds=1800)]()[![Top Langs](https://github-readme-stats.moonrailgun.com/api/top-langs/?username=niyongsheng&count_private=true&layout=compact&theme=default&hide_title=true&bg_color=0000&hide_border=true&cache_seconds=1800)]()
