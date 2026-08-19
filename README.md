@@ -1,6 +1,4 @@
-<a href="https://niyongsheng.github.io/pixel_homepage/">
-    <img width="77px" height="77px" src="https://github.com/niyongsheng/niyongsheng.github.io/blob/master/Document/salted_fish.png?raw=true"/>
-</a>
+<img width="77px" height="77px" src="https://github.com/niyongsheng/niyongsheng.github.io/blob/master/Document/salted_fish.png?raw=true"/>
 <a href="https://niyongsheng.github.io" style="font-size:17px; color: #105FFF">
 思考的咸鱼
 </a>
