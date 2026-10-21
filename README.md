@@ -1,7 +1,7 @@
 <a href="https://niyongsheng.github.io">
   <img width="77px" height="77px" src="https://github.com/user-attachments/assets/9e623b04-5720-4676-8fec-beaa2c6df769" alt="思考的咸鱼"/>
 </a>
-<a href="https://niyongsheng.github.io" style="font-size:17px; color: #105FFF">思考的咸鱼</a>
+<a href="https://nicolab.top" style="font-size:17px; color: #105FFF">https://nicolab.top</a>
 <!-- <a href="https://ifdian.net/a/nico2026">
   <img src="https://img.shields.io/badge/爱发电-Afdian-946ce6?style=for-the-badge&logo=github&logoColor=white" alt="爱发电"/>
 </a> -->
