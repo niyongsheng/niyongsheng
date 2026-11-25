@@ -6,4 +6,4 @@
   <img src="https://img.shields.io/badge/爱发电-Afdian-946ce6?style=for-the-badge&logo=github&logoColor=white" alt="爱发电"/>
 </a> -->
 
-[![](https://github-readme-stats.moonrailgun.com/api?username=niyongsheng&count_private=true&show_icons=true&theme=default&hide_title=true&bg_color=0000&hide_border=true&cache_seconds=1800)]()[![Top Langs](https://github-readme-stats.moonrailgun.com/api/top-langs/?username=niyongsheng&count_private=true&layout=compact&theme=default&hide_title=true&bg_color=0000&hide_border=true&cache_seconds=1800)]()
+[![](https://github-stats-extended.vercel.app/api?username=niyongsheng&count_private=true&show_icons=true&theme=default&hide_title=true&bg_color=0000&hide_border=true&cache_seconds=1800)]()[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=niyongsheng&count_private=true&layout=compact&theme=default&hide_title=true&bg_color=0000&hide_border=true&cache_seconds=1800)]()
